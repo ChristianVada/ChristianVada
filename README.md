@@ -1,4 +1,4 @@
-## Olá eu sou o Christian, Desenvolvedor Web Full Stack em formação
+## Olá eu sou o Christian, Desenvolvedor Front End e Full Stack em formação
 
 [![ChristianVada GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianVada&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -3,7 +3,7 @@
 ## About me
 - Developer Full Stack 💻;
 - Problem solver with technology 🛠;
-- Curious 🤔and Calm 😎;
+- Curious 🤔;
 - Always looking to become a better human being 🤸🏼‍♂️.
 
 ## Skills:
